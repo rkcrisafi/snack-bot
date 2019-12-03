@@ -1,0 +1,22 @@
+{
+  "name": "snack-bot",
+  "version": "1.0.0",
+  "description": "Snack Refilling Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkcrisafi/snack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkcrisafi/snack-bot/issues"
+  },
+  "homepage": "https://github.com/rkcrisafi/snack-bot#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
